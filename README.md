@@ -7,5 +7,5 @@ Assuming you create a `data/` dir and put each list within its own dir as well.
 
 ## Uploading to Drive
 There's also a convenience script here called `upload_to_drive.py` which requires setup of Google Drive API. It allows you to push automatically to a pre-
-defined drive. Read (here)[https://developers.google.com/drive/api/v3/quickstart/python] for more details. You need to download a `client_id.json` from your
+defined drive. Read [here](https://developers.google.com/drive/api/v3/quickstart/python) for more details. You need to download a `client_id.json` from your
 google drive/ cloud console.
